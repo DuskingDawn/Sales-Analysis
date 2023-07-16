@@ -12,7 +12,7 @@ This project aims to address the lack of comprehensive sales analysis in the e-c
 
 **Dataset Used**
 
-https://www.kaggle.com/datasets/benroshan/ecommerce-data
+🔗 https://www.kaggle.com/datasets/benroshan/ecommerce-data
 
 **Final View of the Dashboard**
 
@@ -20,7 +20,9 @@ https://www.kaggle.com/datasets/benroshan/ecommerce-data
 
 **Demo Page Link:**
 
+🔗 https://duskingdawn.github.io/Sales-Analysis/
+
 You will need a work or school email-id PowerBI account to view this! 
-Any problem with the project you can contact me here kurmisneha9@gmail.com
+Any problem with the project you can contact me here 📧 kurmisneha9@gmail.com
 
 Thank you for viewing my project! 
