@@ -22,7 +22,7 @@ This project aims to address the lack of comprehensive sales analysis in the e-c
 
 🔗 https://duskingdawn.github.io/Sales-Analysis/
 
-You will need a work or school email-id PowerBI account to view this! <br>
+You will need a work or school email-id PowerBI account to interact with the dashboard! <br>
 Any problem with the project you can contact me here 📧 kurmisneha9@gmail.com
 
 Thank you for viewing my project! 
